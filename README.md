@@ -1,19 +1,17 @@
-# Realms of Arkania 3 - Shadows over Riva - Speedrun Notes
-
-## Important key short cuts
+# Important key short cuts
 - F10 - inventory
 - F6 - map
 - F7 - save
 - F3 - settings
 
-## General information
+# General information
 [NLT Wiki - Schatten über Riva](http://nlt-wiki.crystals-dsa-foren.de/doku.php/schatten_ueber_riva)
 
 Open settings, set graphics to high, text display and combat speed to fast
 
 Load START save file
 
-## Riva
+# Riva
 - Choose Novice level
 - Get picklocks of Calissa, give to Gorm
 - Get weeds from Norat, give to Gorm
@@ -22,7 +20,7 @@ Load START save file
 - Go to Firun Temple, take quest
 - Go to graveyard
 
-## Boron's Field
+# Boron's Field
 - Go to right hut, enter
 - Go to middle grave in front of gate, enter
 - Open door to left, grab everything from chests
@@ -34,15 +32,15 @@ Load START save file
 - Go back, open hidden way next to entry, take amulets of grave
 - Leave graveyard
 
-## Riva
+# Riva
 - Go to hotel to right, healing
 - Go back to graveyard
 
-## Boron's Field
+# Boron's Field
 - Go to left hut, fight
 - Leave graveyard
 
-## Riva
+# Riva
 - Go to Firun Temple, end quest, leave
 - Cross bridge, Holberker cut scene
 - After cut scene go to market, sell stuff except whirlweed, healing and magic potion
@@ -59,19 +57,19 @@ Load START save file
 - Go to bar next to Tarik, sit with Tarik
 - Go to Rat Catcher's house, enter sewers
 
-## New Sewers
+# New Sewers
 - Left, left, right, straight, right, right, left, straight, left, left, right, right, left
 - Leave sewers
 
-## Riva
+# Riva
 - Go to marketplace, murder cut scene
 - Go to Rat Catcher's house, enter sewers
 
-## New Sewers
+# New Sewers
 - Left, left, right, straight, right, right, left, straight, left, left, save, straight
 - Leave sewers
 
-## Riva
+# Riva
 - Go to marketplace, assassination cut scene
 - Go to hotel, sleep until noon
 - Go to marketplace, Lea cut scene
@@ -79,12 +77,12 @@ Load START save file
 - Go to warehouse next to Efferd Temple
 - Second option
 
-## New Sewers
+# New Sewers
 - Give everyone a bracelet
 - Left, left, right, left
 - Leave sewers
 
-## Riva
+# Riva
 - Go to hotel, sleep until noon, split group to only dwarf
 - Go to pirate's house with dwarf, save
 - Talk to pirate, watch house, follow pirate
@@ -95,7 +93,7 @@ Load START save file
 - Go to Tarik, give document
 - Leave Riva through southern gate
 
-## Riva Surroundings
+# Riva Surroundings
 - Go to Stipen, help him
 - Go to weeping willow trees, blow horn
 - Go to corner of northern gate, blow horn
@@ -109,18 +107,18 @@ Load START save file
 - Take everything, give shield to mage
 - Enter Riva through northern gate
 
-## Riva
+# Riva
 - Sleep, get Thorgrimm
 - Go to Ordo, take quest
 - Leave Riva through northern gate
 
-## Riva Surroundings
+# Riva Surroundings
 - Save, go to mine
 
-## Dwarven Mine - Level 1
+# Dwarven Mine - Level 1
 - Go right, down to second level
 
-## Dwarven Mine - Level 2
+# Dwarven Mine - Level 2
 - Go left, orc cut scene, save
 - Go straight to door, fight orcs, everyone needs to be alive
 - Go through door across room
@@ -129,7 +127,7 @@ Load START save file
 - Go back, straight, left, save, overpower and question orc
 - Answers: no, no, yes, yes, no
 
-## Dwarven Mine - Level 3
+# Dwarven Mine - Level 3
 - Save, heal party
 - Give mages magic potion if necessary
 - Give mages magic potion in offhand
@@ -141,24 +139,24 @@ Load START save file
 - Give plates to dwarf and warrior, belt and ring to dwarf, take jewelry
 - Take book, drop book, leave mine
 
-## Riva Surroundings
+# Riva Surroundings
 - Sleep in hut until morning if necessary
 - Enter boat
 
-## Magician's Tower - Swamp
+# Magician's Tower - Swamp
 - Save
 - Go to tower's back entrance, as right as possible
 - Fight swamp rantzies
 - Enter tower
 
-## Magician's Tower - Garden
+# Magician's Tower - Garden
 - Save, fight Pergor
 - Give belt to warrior
 - Go to herb garden, take everything
 - Turn around, enter hedges to the right, hug left wall
 - Open door with last option
 
-## Magician's Tower - Level 1
+# Magician's Tower - Level 1
 - Save, fight Pergor
 - Left, left, right, save
 - Open door, fight
@@ -174,7 +172,7 @@ Load START save file
 - Switch to last character, use crank
 - Switch to last character, send last character up
 
-## Magician's Tower - Level 2
+# Magician's Tower - Level 2
 - Open chest to right, take potions, give belt to second mage, magic sword to second warrior
 - Go right, open door on right
 - Save, fight, take diamonds
@@ -193,7 +191,7 @@ Load START save file
 - Give belt to third mage, armor to warrior, take rest
 - Go back, open door to left, go up
 
-## Magician's Tower - Level 3
+# Magician's Tower - Level 3
 - At junctions: straight, right, right, left
 - Open door, search locker, give helmet to mage
 - Search cupboard, take documents
@@ -212,7 +210,7 @@ Load START save file
 - Go to floor pentagram, use Motoricus with mage to get magic potion
 - Open door, go up
 
-## Magician's Tower - Level 4
+# Magician's Tower - Level 4
 - Open door, heal party, give mages
 - Save, fight Pergor, use Ignifaxius on Pergor
 - Open western door, use teleporter
@@ -224,15 +222,15 @@ Load START save file
 - Go left in bedroom, search cupboard to right, take potions
 - Go back, straight in bedroom, use teleporter
 
-## Magician's Tower - Swamp
+# Magician's Tower - Swamp
 - Turn around, go through door
 - Go left, enter boat
 
-## Riva Surroundings
+# Riva Surroundings
 - Sleep in hut until morning if necessary
 - Enter Riva through southern gate
 
-## Riva
+# Riva
 - Go to Ordo, finish quest
 - Go to Gorm, confront
 - Go to pirates house, if one doesn't work visit the other
@@ -242,15 +240,15 @@ Load START save file
 - Sleep for 4 days, go to marketplace, Tarik cut scene
 - Save, enter marketplace manhole
 
-## New Sewers
+# New Sewers
 - Right, right, right, enter old sewers
 
-## Old Sewers
+# Old Sewers
 - Go to iron door, talk to guild master, leave guild hideout
 - Go straight, ignore wall opening, continue straight, left, left, right, left
 - Enter door
 
-## Feylamia's Hideout
+# Feylamia's Hideout
 - Go right, leave last character at lever
 - Go other way, use lever, vampire cut scene
 - Leave last character at lever
@@ -274,7 +272,7 @@ Load START save file
 - Go through mirror, go through right mirror, unite with party
 - Leave hideout
 
-## Old Sewers
+# Old Sewers
 - Keep right, go to guild hideout
 - Sleep until fully healed
 - Take whirlweed
@@ -287,7 +285,7 @@ Load START save file
 - Cast Ignifaxius with mages, use magic potion on mage when necessary
 - Leave through door
 
-## Fortress of Riva
+# Fortress of Riva
 - Open hidden door, go in at night
 - Save, go right, enter first cell, fight
 - Take key from wall, leave cell, turn right
@@ -314,7 +312,7 @@ Load START save file
 - Sleep until fully healed
 - Take Even Star quest, take kajubo buds
 
-## Harbor Basin
+# Harbor Basin
 - Save, go straight, fight
 - Go straight, follow nixes, king cut scene
 - Go straight, a little to left, look right, enter building
@@ -322,18 +320,18 @@ Load START save file
 - Leave, go right, destroy red plant
 - Enter, go to back left corner, enter cellar
 
-## Wine Cellar
+# Wine Cellar
 - Save, go to next room, fight
 - Open door, enter, go to next room, save
 - Go to next room, fight
 - Go to next room, smash bottles with second option, leave cellar
 
-## Harbor Basin
+# Harbor Basin
 - Go back to king, wand cut scene
 - Take wand, save, go straight, fight mermaid
 - Go straight, enter Even Star
 
-## Even Star
+# Even Star
 - Stand under door to right, give boots to Zorka
 - Enter room, open chest to right, take prism
 - Use prism on wand, open door
@@ -341,26 +339,26 @@ Load START save file
 - Open door, fight water elementals, defeat elemental in front of chest with mage, surround Zorka with rest of party
 - Open chest, leave Even Star
 
-## Harbor Basin
+# Harbor Basin
 - Go to king, staff cut scene, take staff
 - Don't stay with Zorka with first option
 - Remove lead shoes, give magic boots to warrior
 - Sleep until fully healed, leave hideout
 
-## Old Sewers
+# Old Sewers
 - Left, right, left, left, right, right, straight, right
 - Enter Phex Temple, leave
 
-## Riva
+# Riva
 - Save, go to Quenya, translation cut scene
 - Take translation, leave, save
 - Go back to Phex Temple, enter, go to sewers
 
-## Old Sewers
+# Old Sewers
 - Go back to guild hideout, enter
 - Sleep until next quest appears, take quest, edifice cut scene
 
-## The Edifice of the Queen
+# The Edifice of the Queen
 - Save, go right, fight worm, take egg
 - Go straight, search pile of twigs
 - Give everyone twig
@@ -372,7 +370,7 @@ Load START save file
 - Fight worms
 - Go to next level
 
-## The chambers of the Queen
+# The chambers of the Queen
 - Go left, cross illusionary pit
 - Go left, save, random fight ahead
 - Go to stalagmite, get all dragees
@@ -389,7 +387,7 @@ Load START save file
 - Create flute by using claw and plant stalk together
 - Go back, straight
 
-## The labyrinth of the Queen
+# The labyrinth of the Queen
 - Go straight, left, right, left, right, straight
 - This corridor is an angle
 - Go right, straight, left, straight, straight, left, right, right, left, left
@@ -415,7 +413,7 @@ Load START save file
 - Go straight, left, right, right
 - Go to next level
 
-## The chambers of the Queen
+# The chambers of the Queen
 - Go right
 - Use flute in front of wall, save
 - Fight fake queen
