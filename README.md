@@ -7,7 +7,7 @@
 - F3 - settings
 
 ## General information
-[NLT Wiki - Schatten über Riva]([https://link](http://nlt-wiki.crystals-dsa-foren.de/doku.php/schatten_ueber_riva))
+[NLT Wiki - Schatten über Riva](http://nlt-wiki.crystals-dsa-foren.de/doku.php/schatten_ueber_riva)
 
 Open settings, set graphics to high, text display and combat speed to fast
 
@@ -15,7 +15,7 @@ Load START save file
 
 ## Riva
 - Choose Novice level
-- Get lockpicks of Calissa, give to Gorm
+- Get picklocks of Calissa, give to Gorm
 - Get weeds from Norat, give to Gorm
 - Remove from party: Calissa, Mirena, Norat
 - Add to party: Arva, Pivot, Hesaf
@@ -35,7 +35,7 @@ Load START save file
 - Leave graveyard
 
 ## Riva
-- Go to hotel to right, healin-g
+- Go to hotel to right, healing
 - Go back to graveyard
 
 ## Boron's Field
@@ -54,9 +54,9 @@ Load START save file
 	- For mage 3: boots
 	- For mage 3: boots
 - Buy at grocer: Whetstone
-- Buy at herb dealer: 50+ Whirlweed, strong magic potion
-- Go to northen exit of market place, Lea cut scene
-- Go to bar next to Tarik, sit to Tarik
+- Buy at herb dealer: 50+ whirlweed, strong magic potion
+- Go to northern exit of market place, Lea cut scene
+- Go to bar next to Tarik, sit with Tarik
 - Go to Rat Catcher's house, enter sewers
 
 ## New Sewers
@@ -131,11 +131,11 @@ Load START save file
 
 ## Dwarven Mine - Level 3
 - Save, heal party
-- Give mages amagic potion if necessary
+- Give mages magic potion if necessary
 - Give mages magic potion in offhand
 - Go all the way back to face, answer with 'remission'
 - Go back to stain on wall, touch, open door, save
-- Fight demon, cast Ignifaxius with mages, tank with meelees, use magic potion on mages when necessary
+- Fight demon, cast Ignifaxius with mages, tank with melees, use magic potion on mages when necessary
 - Save, heal party
 - Fight orcs
 - Give plates to dwarf and warrior, belt and ring to dwarf, take jewelry
@@ -189,7 +189,7 @@ Load START save file
 - Go right, left, open door
 - Save, fight, go back, unite party
 - Go to end, ignore door to right
-- Use statue, enter 'blood washes fire cleans'
+- Use statue, enter **blood washes fire cleans**
 - Give belt to third mage, armor to warrior, take rest
 - Go back, open door to left, go up
 
@@ -197,7 +197,7 @@ Load START save file
 - At junctions: straight, right, right, left
 - Open door, search locker, give helmet to mage
 - Search cupboard, take documents
-- Go to picture, answer 'borbarad', go straight
+- Go to picture, answer **borbarad**, go straight
 - Save, cast foramen on chest
 - Take key and bread bag, leave lunch behind
 - Destroy the statue
@@ -302,7 +302,7 @@ Load START save file
 - Go straight, up the stairs at end
 - Enter first door on left, search bed
 - Leave bedroom, left, straight, right at end
-- Right, enter kitchen, interogate cook, let him flee
+- Right, enter kitchen, interrogate cook, let him flee
 - Save, leave through same door
 - Right, straight, right, straight, left
 - Disarm trap in front of door to left, force door open, enter door
@@ -330,8 +330,8 @@ Load START save file
 
 ## Harbor Basin
 - Go back to king, wand cut scene
-- Take wand, save, go straight, fight nixe
-- Go straihgt, enter Even Star
+- Take wand, save, go straight, fight mermaid
+- Go straight, enter Even Star
 
 ## Even Star
 - Stand under door to right, give boots to Zorka
@@ -385,7 +385,7 @@ Load START save file
 - Fight worms
 - Take plat stalk from left pile
 - Take claws and armor from right pile
-- Give armor to darf and warriors
+- Give armor to dwarf and warriors
 - Create flute by using claw and plant stalk together
 - Go back, straight
 
@@ -421,7 +421,7 @@ Load START save file
 - Fight fake queen
 - Use flute in front of wall
 - Go down
-- Split party to 1 dwarf or warrrior, dependening on most health
+- Split party to 1 dwarf or warrior, depending on most health
 - Save
 - Fight mirror image
 - Save
