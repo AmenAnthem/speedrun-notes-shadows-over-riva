@@ -54,7 +54,7 @@ Load START save file
 	- For mage 3: boots
 	- For mage 3: boots
 - Buy at grocer: Whetstone
-- Buy at herb dealer: 50+ whirlweed, strong magic potion
+- Buy at herb dealer: 50+ whirlweed, 6 magic potions
 - Go to northern exit of market place, Lea cut scene
 - Go to bar next to Tarik, sit with Tarik
 - Go to Rat Catcher's house, enter sewers
@@ -112,7 +112,6 @@ Load START save file
 ## Riva
 - Sleep, get Thorgrimm
 - Go to Ordo, take quest
-- Leave Riva through northern gate
 
 ## Riva Surroundings
 - Save, go to mine
@@ -142,7 +141,14 @@ Load START save file
 - Take book, drop book, leave mine
 
 ## Riva Surroundings
-- Sleep in hut until morning if necessary
+- Enter Riva through northern gate
+
+## Riva
+- Go to marketplace
+- Buy at herb dealer: 50+ whirlweed, 6 magic potions
+- Leave Riva through northern gate
+
+## Riva Surroundings
 - Enter boat
 
 ## Magician's Tower - Swamp
@@ -153,7 +159,7 @@ Load START save file
 
 ## Magician's Tower - Garden
 - Save, fight Pergor
-- Give belt to warrior
+- Give belt to warrior, save
 - Go to herb garden, take everything
 - Turn around, enter hedges to the right, hug left wall
 - Open door with last option
