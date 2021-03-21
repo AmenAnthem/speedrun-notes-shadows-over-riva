@@ -43,7 +43,6 @@ Load START save file
 - Leave graveyard
 
 ## Riva
-- Go to Firun Temple, end quest, leave
 - Cross bridge, Holberker cut scene
 - After cut scene go to market, sell stuff except whirlweed, healing and magic potion
 - Buy at blacksmith: edged w., 2x chainmail, 2x shield, 6x boots
@@ -169,7 +168,7 @@ Load START save file
 - Left, left, right, save
 - Open door, fight
 - Open chest to right, give helmet to warrior
-- Sleep
+- Sleep (only when it works first time, heal otherwise)
 - Open other door, left, left
 - Open door, take dog figurine
 - Open chest, take key
@@ -239,9 +238,10 @@ Load START save file
 - Enter Riva through southern gate
 
 ## Riva
-- Go to Ordo, finish quest
-- Go to Gorm, confront
 - Go to pirates house, if one doesn't work visit the other
+- Go to Ordo, finish quest
+- Sleep
+- Go to Gorm, confront
 - Go to marketplace, crime cut scene
 - Sell stuff, buy 50+ whirlweeds
 - Sleep for 4 days, go to marketplace, Tarik cut scene
