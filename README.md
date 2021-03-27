@@ -43,6 +43,7 @@ Load START save file
 - Leave graveyard
 
 ## Riva
+- Go to Firun Temple, finish quest
 - Cross bridge, Holberker cut scene
 - After cut scene go to market, sell stuff except whirlweed, healing and magic potion
 - Buy at blacksmith: edged w., 2x chainmail, 2x shield, 6x boots
@@ -309,7 +310,7 @@ Load START save file
 - Enter first door on left, search bed
 - Leave bedroom, left, straight, right at end
 - Right, enter kitchen, interrogate cook, let him flee
-- Save, leave through same door
+- Save, leave through same door, save
 - Right, straight, right, straight, left
 - Disarm trap in front of door to left, force door open, enter door
 - Search desk, take key, save
