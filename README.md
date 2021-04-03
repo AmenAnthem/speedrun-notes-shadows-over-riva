@@ -32,13 +32,7 @@ Load START save file
 - Go to third door on left, grab everything
 - Take scroll on table, make balls
 - Go back, open hidden way next to entry, take amulets of grave
-- Leave graveyard
-
-## Riva
-- Go to hotel to right, healing
-- Go back to graveyard
-
-## Boron's Field
+- Leave grave
 - Go to left hut, fight
 - Leave graveyard
 
@@ -46,13 +40,10 @@ Load START save file
 - Go to Firun Temple, finish quest
 - Cross bridge, Holberker cut scene
 - After cut scene go to market, sell stuff except whirlweed, healing and magic potion
-- Buy at blacksmith: edged w., 2x chainmail, 2x shield, 6x boots
+- Buy at blacksmith: edged w., chainmail, 3x shield, 6x boots
 	- For dwarf: edged w., chainmail, shield, boots
-	- For warrior 1: chainmail, shield, boots
-	- For warrior 2: boots
-	- For mage 3: boots
-	- For mage 3: boots
-	- For mage 3: boots
+	- For warriors: shield, boots
+	- For mages: boots
 - Buy at grocer: Whetstone
 - Buy at herb dealer: 50+ whirlweed, 6 magic potions
 - Go to northern exit of market place, Lea cut scene
