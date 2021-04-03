@@ -40,7 +40,7 @@ Load START save file
 - Go to Firun Temple, finish quest
 - Cross bridge, Holberker cut scene
 - After cut scene go to market, sell stuff except whirlweed, healing and magic potion
-- Buy at blacksmith: edged w., chainmail, 3x shield, 6x boots
+- Buy at blacksmith: edged w., chainmail, 3x shield, 5x boots
 	- For dwarf: edged w., chainmail, shield, boots
 	- For warriors: shield, boots
 	- For mages: boots
@@ -91,18 +91,18 @@ Load START save file
 - Go to weeping willow trees, blow horn
 - Go to corner of northern gate, blow horn
 - Go to boots in wall, blow horn
-- Split party to dwarf only, save
-- Pull boots with dwarf, fight skeleton
+- Split party to mage only, save
+- Pull boots with mage, fight skeleton, use Paralys
 - Get boots, give to dwarf
 - Go to rotten dock, blow horn
 - Go to shack with stacked wood, search wood stacked
 - Wait for Stipen
-- Take everything, give shield to mage
+- Take everything
 - Enter Riva through northern gate
 
 ## Riva
 - Sleep, get Thorgrimm
-- Go to Ordo, take quest
+- Leave Riva through northern gate
 
 ## Riva Surroundings
 - Save, go to mine
@@ -137,7 +137,7 @@ Load START save file
 ## Riva
 - Go to marketplace
 - Buy at herb dealer: 50+ whirlweed, 6 magic potions
-- Leave Riva through northern gate
+- Go to Ordo, take quest
 
 ## Riva Surroundings
 - Enter boat
@@ -167,20 +167,18 @@ Load START save file
 - Go back to the entry junction, left, left
 - Use dog figurine on door
 - Use crank with last character
-- Save, send warrior up, fight, take diamonds
+- Save, send warrior up, fight, take blue diamonds
 - Switch to last character, use crank
 - Switch to last character, send last character up
 
 ## Magician's Tower - Level 2
 - Open chest to right, take potions, give belt to second mage, magic sword to second warrior
-- Go right, open door on right
-- Save, fight, take diamonds
-- Leave room, continue right
+- Go right, ignore door to right
 - Open door straight ahead
-- Save, fight, take diamonds
+- Save, fight, take red diamonds
 - Go back to entry, open door on left
 - Open first door to left
-- Save, fight, take diamonds
+- Save, fight, take yellow diamonds
 - Leave room, continue left
 - Use red and yellow diamonds at door
 - Go right, left, open door
@@ -203,14 +201,14 @@ Load START save file
 - Give armor to dwarf
 - Go left, search locker, take everything
 - Go back, continue left
-- Open door, heal party, give mages
+- Open door, heal party
 - Save, fight Pergor, use Ignifaxius on Pergor
 - Give amulet to mage, take rest, save
 - Go to floor pentagram, use Motoricus with mage to get magic potion
 - Open door, go up
 
 ## Magician's Tower - Level 4
-- Open door, heal party, give mages
+- Open door, heal party
 - Save, fight Pergor, use Ignifaxius on Pergor
 - Open western door, use teleporter
 - Open northern door, save, use teleporter
@@ -226,7 +224,6 @@ Load START save file
 - Go left, enter boat
 
 ## Riva Surroundings
-- Sleep in hut until morning if necessary
 - Enter Riva through southern gate
 
 ## Riva
@@ -235,7 +232,7 @@ Load START save file
 - Sleep
 - Go to Gorm, confront
 - Go to marketplace, crime cut scene
-- Sell stuff, buy 50+ whirlweeds
+- Sell stuff, buy 50+ whirlweeds, 6+ magic potions
 - Sleep for 4 days, go to marketplace, Tarik cut scene
 - Sleep for 4 days, go to marketplace, Tarik cut scene
 - Save, enter marketplace manhole
