@@ -30,7 +30,6 @@ Load START save file
 - Search left grave
 - Go back, left
 - Go to third door on left, grab everything
-- Take scroll on table, make balls
 - Go back, open hidden way next to entry, take amulets of grave
 - Leave grave
 - Go to left hut, fight
