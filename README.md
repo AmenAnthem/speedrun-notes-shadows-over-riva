@@ -91,8 +91,8 @@ Load START save file
 - Go to corner of northern gate, blow horn
 - Go to boots in wall, blow horn
 - Split party to mage only, save
-- Pull boots with mage, fight skeleton, use Paralys
-- Get boots, give to dwarf
+- Pull boots with mage, fight skeleton, use Paralyze
+- Get boots, give to first warrior
 - Go to rotten dock, blow horn
 - Go to shack with stacked wood, search wood stacked
 - Wait for Stipen
@@ -214,6 +214,7 @@ Load START save file
 - Fight, use eastern door, use teleporter
 - Go right at junction, save
 - Fight Pergor, finish puzzle
+![Puzzle](magicians-tower-puzzle.png)
 - Go back, at junction go straight
 - Go left in bedroom, search cupboard to right, take potions
 - Go back, straight in bedroom, use teleporter
