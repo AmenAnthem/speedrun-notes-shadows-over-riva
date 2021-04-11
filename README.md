@@ -1,5 +1,5 @@
 # Routes
-- [Any%](routes/any%.md)
+- [Any%](routes/any-percent.md)
 
 # Guides
 - [Steam Version Fix](guides/steam-version-fix.md)
