@@ -1,3 +1,8 @@
+---
+title: Any%
+author: AmenAnthem
+---
+
 # Important key short cuts
 - F10 - inventory
 - F6 - map

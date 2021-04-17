@@ -1,3 +1,8 @@
+---
+title: Steam Version Fix
+author: AmenAnthem
+---
+
 The Steam version has several problems and crashes which may occur.
 
 To fix a lot of these crashes you need to
