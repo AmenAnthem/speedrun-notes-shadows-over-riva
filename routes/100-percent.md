@@ -262,17 +262,18 @@ Load START save file
 ## Riva Surroundings
 - Enter Riva through southern gate
 ## Riva
+- Go to Boron's Field, enter grave
+- Put unneeded equipment in chest, keep weapons
 - Go to pirates house, if one doesn't work visit the other
 - Go to Ordo, finish quest
 - **2 points** after cut scene
 - Sleep at Ordo's
 - Go to marketplace
 - Sell stuff, buy 50+ whirlweeds, 18+ magic potions
+- Sleep for until fully healed
 - Go to Gorm, confront
 - **10 points** after cut scene
-- Sleep for 4 days, go to marketplace, Tarik cut scene
-- Go to Boron's Field, enter grave
-- Put unneeded equipment in chest, keep weapons
+- Tarik cut scene
 - Go to bar next to Tarik, save, enter
 - **2 points** after cut scene
 ## Bride of the Winds - Level 1
