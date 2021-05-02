@@ -30,7 +30,9 @@ Load START save file
 - Go to next door on left, fight everything
 - Search left grave
 - Go back, left
-- Go to third door on left, grab everything
+- Go to third door on left, grab everything from left chest
+- Go back, left
+- Go to next door on right, grab everything, ignore bookshelf
 - Go back, open hidden way next to entry, take amulets of grave
 - Leave grave
 - Go to left hut, fight
@@ -71,11 +73,13 @@ Load START save file
 - Go to hotel, sleep until noon, split group to only dwarf
 - Go to pirate's house with dwarf, save
 - Talk to pirate, watch house, follow pirate
-- Regroup at hotel, sleep until noon
+- Switch to other group, sleep until noon
+- Switch to dwarf, take pirate document
+- Go to Tarik, give document
+- Switch to other group
 - Go to marketplace, Ordo cut scene
 - Second option
-- Go to second pirate's house, take document
-- Go to Tarik, give document
+- Regroup at Tarik's house
 - Leave Riva through southern gate
 ## Riva Surroundings
 - Go to Stipen, help him
@@ -107,10 +111,10 @@ Load START save file
 - Answers: no, no, yes, yes, no
 ## Dwarven Mine - Level 3
 - Save, heal party
-- Give mages magic potion if necessary
-- Give mages magic potion in offhand
 - Go all the way back to face, answer with 'remission'
-- Go back to stain on wall, touch, open door, save
+- Go back to stain on wall, touch, open door
+- Give mages magic potion if necessary
+- Give mages magic potion in offhand, save
 - Fight demon, cast Ignifaxius with mages, tank with melees, use magic potion on mages when necessary
 - Save, heal party
 - Fight orcs
@@ -194,8 +198,7 @@ Load START save file
 - Fight Pergor, finish puzzle
 ![Puzzle](magicians-tower-puzzle.png)
 - Go back, at junction go straight
-- Go left in bedroom, search cupboard to right, take potions
-- Go back, straight in bedroom, use teleporter
+- Go right in bedroom, use teleporter
 ## Magician's Tower - Swamp
 - Turn around, go through door
 - Go left, enter boat
@@ -226,17 +229,17 @@ Load START save file
 - Unite party at first lever
 - Enter new opening, open first door on right, talk to rat catcher
 - Leave cell, go right, left, right, right, left, straight, left, right, right, straight
-- Open door, search locker, give shield and helmet to dwarf
-- Open chest, give lantern to mage
+- Open door, search locker, give helmet to dwarf
+- Open chest, give lantern to dwarf
 - Leave room, go straight, right, straight, left, right, right, straight, right, left, left
 - Open door, enter room to right
 - Search shelf, take everything
 - Leave room, go right, left, right
-- Open door, search table, take antihypnoticum and key, give key to mage
+- Open door, search table, take antihypnoticum and key, give key to dwarf
 - Leave room, go back to closed to to right
-- Open door, open chest, give bracelet and ring to mage
-- Use antihypnoticum, split party to mage, save
-- Go through mirror with mage
+- Open door, open chest, give bracelet and ring to dwarf
+- Use antihypnoticum, split party to dwarf, save
+- Go through mirror with dwarf
 - Open chest with key, take everything except bottles, lantern cut scene
 - Use lantern, leave room
 - Go through mirror, go through right mirror, unite with party
@@ -269,7 +272,7 @@ Load START save file
 - Enter first door on left, search bed
 - Leave bedroom, left, straight, right at end
 - Right, enter kitchen, interrogate cook, let him flee
-- Save, leave through same door, save
+- Save, leave through same door
 - Right, straight, right, straight, left
 - Disarm trap in front of door to left, force door open, enter door
 - Search desk, take key, save
@@ -343,7 +346,7 @@ Load START save file
 - Take claws and armor from right pile
 - Give armor to dwarf and warriors
 - Create flute by using claw and plant stalk together
-- Go back, straight
+- Go back, straight, answer illusions
 ## The labyrinth of the Queen
 - Go straight, left, right, left, right, straight
 - This corridor is an angle
@@ -375,9 +378,8 @@ Load START save file
 - Fight fake queen
 - Use flute in front of wall
 - Go down
-- Split party to 1 dwarf or warrior, depending on most health
-- Save
-- Fight mirror image
+- Split party to 1 mage, save
+- Fight mirror image, use paralyze
 - Save
 - Fight queen
 - Use amulet
