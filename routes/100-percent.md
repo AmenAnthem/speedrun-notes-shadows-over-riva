@@ -338,7 +338,7 @@ Load START save file
 - Go through mirror with dwarf
 - Open chest with key, take everything except bottles, lantern cut scene
 - Use lantern, leave room
-- **10 points** after cut scene
+- **30 points** after cut scene
 - Go through mirror, go through right mirror, unite with party
 - Leave hideout
 ## Old Sewers
