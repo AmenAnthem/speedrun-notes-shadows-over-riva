@@ -180,28 +180,18 @@ Load START save file
 - Destroy the statue
 - Go back, at junctions: right, right, right
 - Save, open door, fight Pergor
-- Give armor to dwarf
+- Take armor
 - Go left, search locker, take everything
 - Go back, continue left
 - Open door, heal party
-- Save, fight Pergor, use Ignifaxius on Pergor
+- Save, fight Toranor, use Ignifaxius on Toranor
 - Give amulet to mage, take rest, save
-- Go to floor pentagram, use Motoricus with mage to get magic potion
-- Open door, go up
-## Magician's Tower - Level 4
-- Open door, heal party
-- Save, fight Pergor, use Ignifaxius on Pergor
-- Open western door, use teleporter
-- Open northern door, save, use teleporter
-- Fight, use eastern door, use teleporter
-- Go right at junction, save
-- Fight Pergor, finish puzzle
-![Puzzle](magicians-tower-puzzle.png)
-- Go back, at junction go straight
-- Go right in bedroom, use teleporter
+- Go to floor pentagram, use Motoricus with mage to get magic potion- Go back, at junctions: straight, left, straight, left, right
+- Save, jump out with everyone
+## Magician's Tower - Garden
+- Unite party, leave through shack
 ## Magician's Tower - Swamp
-- Turn around, go through door
-- Go left, enter boat
+- Save, go left, enter boat
 ## Riva Surroundings
 - Enter Riva through southern gate
 ## Riva
