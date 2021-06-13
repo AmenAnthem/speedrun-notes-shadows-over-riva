@@ -24,28 +24,16 @@ Load START save file
 - Go to Firun Temple, take quest
 - Go to graveyard
 ## Boron's Field
-- Go to right hut, enter
 - Go to middle grave in front of gate, enter
 - Open door to left, grab everything from chests
-- Go to next door on left, fight everything
-- Search left grave
-- Go back, left
-- Go to third door on left, grab everything from left chest
+- Go to fourth door on left, grab everything from left chest
 - Go back, left
 - Go to next door on right, grab everything, ignore bookshelf
 - Go back, open hidden way next to entry, take amulets of grave
 - Leave grave
-- Go to left hut, fight
 - Leave graveyard
 ## Riva
-- Go to Firun Temple, finish quest
 - Cross bridge, Holberker cut scene
-- After cut scene go to market, sell stuff except whirlweed and magic potion
-- Buy at blacksmith: edged w., 3x shield, 5x boots
-	- For dwarf: edged w., shield, boots
-	- For warriors: shield, boots
-	- For mages: boots
-- Buy at herb dealer: 50+ whirlweed, 6 magic potions
 - Go to northern exit of market place, Lea cut scene
 - Go to bar next to Tarik, sit with Tarik
 - Go to Rat Catcher's house, enter sewers
@@ -56,7 +44,7 @@ Load START save file
 - Go to marketplace, murder cut scene
 - Go to Rat Catcher's house, enter sewers
 ## New Sewers
-- Left, left, right, straight, right, right, left, straight, left, left, save, straight
+- Left, left, right, straight, right, right, left, straight, left, left, straight
 - Leave sewers
 ## Riva
 - Go to marketplace, assassination cut scene
@@ -79,7 +67,33 @@ Load START save file
 - Switch to other group
 - Go to marketplace, Ordo cut scene
 - Second option
-- Regroup at hotel, sleep
+- Regroup at Tarik's house
+- Leave Riva through southern gate
+## Riva Surroundings
+- Go to Stipen, help him
+- Go to weeping willow trees, blow horn
+- **5 points** after blowing horn
+- Go to corner of northern gate, blow horn
+- **5 points** after blowing horn
+- Go to boots in wall, blow horn
+- **5 points** after blowing horn
+- Split party to mage only, save
+- Pull boots with mage, fight skeleton, use Paralyze
+- Get boots, give to first warrior
+- Go to rotten dock, blow horn
+- **5 points** after blowing horn
+- Go to shack with stacked wood, search wood stacked
+- Wait for Stipen
+- Take everything
+- **15 points** after taking everything
+- Enter Riva through northern gate
+## Riva
+- Sleep, get Thorgrimm
+- Go to market, sell stuff except whirlweed and magic potion
+- Buy at blacksmith: edged w., 2x swords, 3x shield
+	- For dwarf: edged w., shield
+	- For warriors: shield, sword
+- Buy at herb dealer: 50+ whirlweed, 9+ magic potions
 - Go to Ordo, take quest
 ## Riva Surroundings
 - Enter boat
@@ -141,7 +155,8 @@ Load START save file
 - Open door, heal party
 - Save, fight Toranor, use Ignifaxius on Toranor
 - Give amulet to mage, take rest, save
-- Go to floor pentagram, use Motoricus with mage to get magic potion- Go back, at junctions: straight, left, straight, left, right
+- Go to floor pentagram, use Motoricus with mage to get magic potion
+- Go back, at junctions: straight, left, straight, left, right
 - Save, jump out with everyone
 ## Magician's Tower - Garden
 - Unite party, leave through shack

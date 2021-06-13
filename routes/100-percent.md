@@ -50,11 +50,10 @@ Load START save file
 - **2 points** after cut scene
 - After cut scene go to market, sell stuff except whirlweed and magic potion
 - Buy at grocer: torch
-- Buy at blacksmith: edged w., 3x shield, 5x boots
-	- For dwarf: edged w., shield, boots
-	- For warriors: shield, boots
-	- For mages: boots
-- Buy at herb dealer: 50+ whirlweed, 6 magic potions
+- Buy at blacksmith: edged w., 3x shield
+	- For dwarf: edged w., shield
+	- For warriors: shield
+- Buy at herb dealer: 50+ whirlweed, 6+ magic potions
 - Go to northern exit of market place, Lea cut scene
 - **3 points** after cut scene
 - Go to bar next to Tarik, sit with Tarik
@@ -74,7 +73,7 @@ Load START save file
 ## New Sewers
 - Left, left, right, straight
 - **5 points** after cut scene
-- Right, right, left, straight, left, left, save, straight
+- Right, right, left, straight, left, left, straight
 - **5 points** after cut scene
 - Leave sewers
 ## Riva
