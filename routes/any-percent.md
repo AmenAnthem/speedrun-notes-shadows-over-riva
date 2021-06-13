@@ -79,52 +79,7 @@ Load START save file
 - Switch to other group
 - Go to marketplace, Ordo cut scene
 - Second option
-- Regroup at Tarik's house
-- Leave Riva through southern gate
-## Riva Surroundings
-- Go to Stipen, help him
-- Go to weeping willow trees, blow horn
-- Go to corner of northern gate, blow horn
-- Go to boots in wall, blow horn
-- Split party to mage only, save
-- Pull boots with mage, fight skeleton, use Paralyze
-- Get boots, give to first warrior
-- Go to rotten dock, blow horn
-- Go to shack with stacked wood, search wood stacked
-- Wait for Stipen
-- Take everything
-- Enter Riva through northern gate
-## Riva
-- Sleep, get Thorgrimm
-- Leave Riva through northern gate
-## Riva Surroundings
-- Save, go to mine
-## Dwarven Mine - Level 1
-- Go right, down to second level
-## Dwarven Mine - Level 2
-- Go left, orc cut scene, save
-- Go straight to door, fight orcs, everyone needs to be alive
-- Go through door across room
-- Left, straight, save
-- Fight skeleton, give sword and armor to warrior
-- Go back, straight, left, save, overpower and question orc
-- Answers: no, no, yes, yes, no
-## Dwarven Mine - Level 3
-- Save, heal party
-- Go all the way back to face, answer with 'remission'
-- Go back to stain on wall, touch, open door
-- Give mages magic potion if necessary
-- Give mages magic potion in offhand, save
-- Fight demon, cast Ignifaxius with mages, tank with melees, use magic potion on mages when necessary
-- Save, heal party
-- Fight orcs
-- Give plates to dwarf and warrior, belt and ring to dwarf, take jewelry
-- Take book, drop book, leave mine
-## Riva Surroundings
-- Enter Riva through northern gate
-## Riva
-- Go to marketplace
-- Buy at herb dealer: 50+ whirlweed, 6 magic potions
+- Regroup at hotel, sleep
 - Go to Ordo, take quest
 ## Riva Surroundings
 - Enter boat
@@ -155,7 +110,7 @@ Load START save file
 - Switch to last character, use crank
 - Switch to last character, send last character up
 ## Magician's Tower - Level 2
-- Open chest to right, take potions, give belt to second mage, magic sword to second warrior
+- Open chest to right, take potions and belt, give magic sword to first warrior
 - Go right, ignore door to right
 - Open door straight ahead
 - Save, fight, take red diamonds
@@ -217,8 +172,7 @@ Load START save file
 - Leave last character at lever
 - Go to other lever, go through new way
 - Unite party at first lever
-- Enter new opening, open first door on right, talk to rat catcher
-- Leave cell, go right, left, right, right, left, straight, left, right, right, straight
+- Enter new opening, go right, left, right, right, left, straight, left, right, right, straight
 - Open door, search locker, give helmet to dwarf
 - Open chest, give lantern to dwarf
 - Leave room, go straight, right, straight, left, right, right, straight, right, left, left
@@ -292,8 +246,8 @@ Load START save file
 - Stand under door to right, give boots to Zorka
 - Enter room, open chest to right, take prism
 - Use prism on wand, open door
-- Use prism on wand, give boots to mage, put mage in first position, save
-- Open door, fight water elementals, defeat elemental in front of chest with mage, surround Zorka with rest of party
+- Use prism on wand, save
+- Open door, fight water elementals, defeat elemental in front of chest with dwarf, surround Zorka with rest of party
 - Open chest, leave Even Star
 ## Harbor Basin
 - Go to king, staff cut scene, take staff
