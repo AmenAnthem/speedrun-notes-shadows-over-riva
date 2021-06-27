@@ -67,36 +67,16 @@ Load START save file
 - Switch to other group
 - Go to marketplace, Ordo cut scene
 - Second option
-- Regroup at Tarik's house
-- Leave Riva through southern gate
-## Riva Surroundings
-- Go to Stipen, help him
-- Go to weeping willow trees, blow horn
-- **5 points** after blowing horn
-- Go to corner of northern gate, blow horn
-- **5 points** after blowing horn
-- Go to boots in wall, blow horn
-- **5 points** after blowing horn
-- Split party to mage only, save
-- Pull boots with mage, fight skeleton, use Paralyze
-- Get boots, give to first warrior
-- Go to rotten dock, blow horn
-- **5 points** after blowing horn
-- Go to shack with stacked wood, search wood stacked
-- Wait for Stipen
-- Take everything
-- **15 points** after taking everything
-- Enter Riva through northern gate
-## Riva
-- Sleep, get Thorgrimm
-- Go to market, sell stuff except whirlweed and magic potion
-- Buy at blacksmith: edged w., 2x swords, 3x shield
-	- For dwarf: edged w., shield
+- Regroup at hotel
+- - Sleep, get Thorgrimm
+- Go to market, sell stuff and Thorgrimm's equipment except whirlweed and magic potion
+- Buy at blacksmith: 2x swords, 3x shield, 3x ropes, 1x chain mail
+	- For dwarf: shield, chain mail
 	- For warriors: shield, sword
-- Buy at herb dealer: 50+ whirlweed, 9+ magic potions
+	- For mages: ropes
+- Buy at herb dealer: 50+ whirlweed, 12+ magic potions
+- Give Thorgrimm's axe to dwarf and remaining armour to dawrf and warriors
 - Go to Ordo, take quest
-## Riva Surroundings
-- Enter boat
 ## Magician's Tower - Swamp
 - Save
 - Go to tower's back entrance, as right as possible
@@ -110,14 +90,10 @@ Load START save file
 - Open door with last option
 ## Magician's Tower - Level 1
 - Save, fight Pergor
-- Left, left, right, save
-- Open door, fight
-- Open chest to right, give helmet to warrior
-- Sleep (only when it works first time, heal otherwise)
-- Open other door, left, left
+- At junctions go right, left, left, right
 - Open door, take dog figurine
 - Open chest, take key
-- Go back to the entry junction, left, left
+- Leave, at junctions go left, right, right, right
 - Use dog figurine on door
 - Use crank with last character
 - Save, send warrior up, fight, take blue diamonds
