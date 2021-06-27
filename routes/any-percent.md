@@ -64,12 +64,11 @@ Load START save file
 - Switch to other group, sleep until noon
 - Switch to dwarf, take pirate document
 - Go to Tarik, give document
-- Switch to other group
+- Regroup at hotel
 - Go to marketplace, Ordo cut scene
 - Second option
-- Regroup at hotel
 - - Sleep, get Thorgrimm
-- Go to market, sell stuff and Thorgrimm's equipment except whirlweed and magic potion
+- Go to market, sell stuff except whirlweed and magic potion and Thorgrimm's stuff except axe and armoury except body armour
 - Buy at blacksmith: 2x swords, 3x shield, 3x ropes, 1x chain mail
 	- For dwarf: shield, chain mail
 	- For warriors: shield, sword
@@ -147,8 +146,9 @@ Load START save file
 - Go to marketplace
 - Sell stuff, buy 50+ whirlweeds, 18+ magic potions
 - Go to Gorm, confront
+- Go to marketplace, Tarik cut scene
+- Sleep for 4 days
 - Go to marketplace, crime cut scene
-- Sleep for 4 days, go to marketplace, Tarik cut scene
 - Sleep for 4 days, go to marketplace, Tarik cut scene
 - Save, enter marketplace manhole
 ## New Sewers
@@ -277,11 +277,11 @@ Load START save file
 - Choose worst options
 - Go north, straight, save
 - Fight worms
-- Take plat stalk from left pile
-- Take claws and armor from right pile
+- Take plant stalk from right pile
+- Take claws and armor from left pile
 - Give armor to dwarf and warriors
 - Create flute by using claw and plant stalk together
-- Go back, straight, answer illusions
+- Go back, straight, answer illusions if not done already
 ## The labyrinth of the Queen
 - Go straight, left, right, left, right, straight
 - This corridor is an angle
