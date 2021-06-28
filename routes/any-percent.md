@@ -67,7 +67,7 @@ Load START save file
 - Regroup at hotel
 - Go to marketplace, Ordo cut scene
 - Second option
-- - Sleep, get Thorgrimm
+- Sleep, get Thorgrimm
 - Go to market, sell stuff except whirlweed and magic potion and Thorgrimm's stuff except axe and armoury except body armour
 - Buy at blacksmith: 2x swords, 3x shield, 3x ropes, 1x chain mail
 	- For dwarf: shield, chain mail
