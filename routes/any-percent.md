@@ -140,15 +140,16 @@ Load START save file
 ## Riva Surroundings
 - Enter Riva through southern gate
 ## Riva
-- Go to pirates house, if one doesn't work visit the other
+- Sleep until next noon
+- Go to pirates house
 - Go to Ordo, finish quest
 - Sleep at Ordo's
-- Go to marketplace
-- Sell stuff, buy 50+ whirlweeds, 18+ magic potions
 - Go to Gorm, confront
 - Go to marketplace, Tarik cut scene
+- Sell stuff, buy 50+ whirlweeds, 18+ magic potions
 - Sleep for 4 days
 - Go to marketplace, crime cut scene
+- Skip with to not loose weaponry
 - Sleep for 4 days, go to marketplace, Tarik cut scene
 - Save, enter marketplace manhole
 ## New Sewers
@@ -267,11 +268,7 @@ Load START save file
 - Fight worms
 - Go to next level
 ## The chambers of the Queen
-- Go left, cross illusionary pit
-- Go left, save, random fight ahead
-- Go to stalagmite, get all dragees
-- Go back (east), keep right
-- After pit go left
+- Go straight
 - Cross pit, save
 - Choose first option (sneak), go right, save
 - Choose worst options
