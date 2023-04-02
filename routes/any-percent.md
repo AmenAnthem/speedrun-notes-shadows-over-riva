@@ -149,7 +149,7 @@ Load START save file
 - Sell stuff, buy 50+ whirlweeds, 18+ magic potions
 - Sleep for 4 days
 - Go to marketplace, crime cut scene
-- Skip with to not loose weaponry
+- Skip with enter to not loose weaponry
 - Sleep for 4 days, go to marketplace, Tarik cut scene
 - Save, enter marketplace manhole
 ## New Sewers
